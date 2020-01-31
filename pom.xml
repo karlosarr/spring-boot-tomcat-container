@@ -22,6 +22,10 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
+		<sonar.projectKey>karlosarr_spring-boot-tomcat-container</sonar.projectKey>
+		<sonar.organization>karlosarr</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.login>951c7b5493c9bb40766f635b077aa7aa7cabc55b</sonar.login>
 	</properties>
 
 	<dependencies>

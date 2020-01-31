@@ -6,7 +6,7 @@
 	<groupId>com.maldiny.spring.boot</groupId>
 	<artifactId>SpringBootTomcatContainer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>SpringBootTomcatContainer</name>
 	<description>Ejemplo de configuración del servidor de Tomcat.</description>

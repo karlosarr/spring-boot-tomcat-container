@@ -30,7 +30,7 @@ pipeline {
                     }
                     steps {
                         script {
-                            sh 'mvn deploy'
+                            sh 'echo "Produción"'
                         }
                     }
                 }
